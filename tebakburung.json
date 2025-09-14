@@ -1,62 +1,62 @@
 [
   {
     "index": 0,
-    "img": "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2045542_960_720.jpg",
-    "jawaban": "RAJA UDANG",
-    "deskripsi": "Gambar burung raja udang (kingfisher) yang terkenal mahir menangkap ikan dan udang."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/House_sparrow04.jpg/1024px-House_sparrow04.jpg",
+    "jawaban": "BURUNG PIPIT",
+    "deskripsi": "Ada burung kecil suka hinggap di kabel listrik, suaranya cerecet bikin heboh."
   },
   {
     "index": 1,
-    "img": "https://cdn.pixabay.com/photo/2018/05/16/22/11/flamingo-3407036_960_720.jpg",
-    "jawaban": "KAKI PANJANG",
-    "deskripsi": "Gambar burung flamingo yang memiliki ciri khas kaki yang sangat panjang dan ramping."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Peacock_Plumage.jpg/1024px-Peacock_Plumage.jpg",
+    "jawaban": "BURUNG MERAK",
+    "deskripsi": "Burung ini kalau lagi pamer ekor, langsung jadi model catwalk hutan."
   },
   {
     "index": 2,
-    "img": "https://cdn.pixabay.com/photo/2019/12/30/14/31/owl-4729310_960_720.jpg",
-    "jawaban": "MATA BESAR",
-    "deskripsi": "Gambar burung hantu dengan mata yang sangat besar dan bulat khas nocturnal."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kingfisher_Alcedo_atthis.jpg/1024px-Kingfisher_Alcedo_atthis.jpg",
+    "jawaban": "BURUNG RAJA UDANG",
+    "deskripsi": "Warnanya biru ngejreng, jagonya nyelam ambil ikan, tapi namanya malah mirip seafood."
   },
   {
     "index": 3,
-    "img": "https://cdn.pixabay.com/photo/2017/08/11/14/38/toucan-2636103_960_720.jpg",
-    "jawaban": "PARUH WARNA",
-    "deskripsi": "Gambar burung toucan dengan paruh yang besar dan berwarna-warni cerah."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bald_Eagle_Portrait.jpg/1024px-Bald_Eagle_Portrait.jpg",
+    "jawaban": "BURUNG ELANG BOTAK",
+    "deskripsi": "Matanya tajam kayak mantan stalking, jadi lambang negara Amerika."
   },
   {
     "index": 4,
-    "img": "https://cdn.pixabay.com/photo/2018/09/22/17/05/woodpecker-3695364_960_720.jpg",
-    "jawaban": "TUKANG KAYU",
-    "deskripsi": "Gambar burung pelatuk (woodpecker) yang suka mematuk kayu untuk mencari serangga."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Parrot_in_tree_2.jpg/1024px-Parrot_in_tree_2.jpg",
+    "jawaban": "BURUNG NURI",
+    "deskripsi": "Suka ngoceh niruin suara orang, cocok jadi MC gratisan di hutan."
   },
   {
     "index": 5,
-    "img": "https://cdn.pixabay.com/photo/2019/03/31/17/43/peacock-4093072_960_720.jpg",
-    "jawaban": "EKOR INDAH",
-    "deskripsi": "Gambar burung merak jantan yang memamerkan ekor berbulu indah dan berwarna-warni."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bubo_bubo_5_%28Martin_Mecnarowski%29.jpg/1024px-Bubo_bubo_5_%28Martin_Mecnarowski%29.jpg",
+    "jawaban": "BURUNG HANTU",
+    "deskripsi": "Kerjanya shift malam terus, matanya bisa muter-muter, bikin yang lihat auto merinding."
   },
   {
     "index": 6,
-    "img": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1905028_960_720.jpg",
-    "jawaban": "SARANG TINGGI",
-    "deskripsi": "Gambar burung elang yang membuat sarang di tempat tinggi seperti tebing atau pohon besar."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Struthio_camelus_male_in_Gilgil%2C_Kenya.jpg/1024px-Struthio_camelus_male_in_Gilgil%2C_Kenya.jpg",
+    "jawaban": "BURUNG UNTA",
+    "deskripsi": "Badannya gede, larinya kenceng, tapi sayapnya cuma buat gaya, gak bisa terbang."
   },
   {
     "index": 7,
-    "img": "https://cdn.pixabay.com/photo/2017/05/25/15/08/penguin-2343633_960_720.jpg",
-    "jawaban": "TIDAK TERBANG",
-    "deskripsi": "Gambar penguin, burung yang tidak bisa terbang tapi sangat pandai berenang."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coereba_flaveola_on_St_John.jpg/1024px-Coereba_flaveola_on_St_John.jpg",
+    "jawaban": "BURUNG KOLIBRI",
+    "deskripsi": "Si paling mungil dan lincah, kepak sayapnya cepet banget sampai nge-blur kayak foto gagal fokus."
   },
   {
     "index": 8,
-    "img": "https://cdn.pixabay.com/photo/2016/11/14/04/14/rooster-1822322_960_720.jpg",
-    "jawaban": "BANGUN PAGI",
-    "deskripsi": "Gambar ayam jago yang selalu berkokok di pagi hari sebagai alarm alami."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aptenodytes_forsteri_-_Snow_Hill_Island%2C_Antarctica_-_adults_with_chick_8.jpg/1024px-Aptenodytes_forsteri_-_Snow_Hill_Island%2C_Antarctica_-_adults_with_chick_8.jpg",
+    "jawaban": "BURUNG PINGUIN",
+    "deskripsi": "Pakai tuksedo setiap hari, jalannya lucu, tapi jagonya renang di air dingin."
   },
   {
     "index": 9,
-    "img": "https://cdn.pixabay.com/photo/2017/10/20/21/45/hummingbird-2872428_960_720.jpg",
-    "jawaban": "SAYAP CEPAT",
-    "deskripsi": "Gambar burung kolibri yang mengepakkan sayap dengan sangat cepat hingga terlihat blur."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Woodpecker_pecking_at_a_tree_in_High_Park_Toronto_May_2015_01.jpg/1024px-Woodpecker_pecking_at_a_tree_in_High_Park_Toronto_May_2015_01.jpg",
+    "jawaban": "BURUNG PELATUK",
+    "deskripsi": "Hobi banget 'nge-drum' di pohon, bunyinya tok-tok-tok kayak lagi nagih utang."
   }
 ]
