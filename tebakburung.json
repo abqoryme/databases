@@ -43,9 +43,9 @@
   },
   {
     "index": 7,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coereba_flaveola_on_St_John.jpg/1024px-Coereba_flaveola_on_St_John.jpg",
-    "jawaban": "BURUNG KOLIBRI",
-    "deskripsi": "Si paling mungil dan lincah, kepak sayapnya cepet banget sampai nge-blur kayak foto gagal fokus."
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hydrochoerus_hydrochaeris_por_Luiz_Alves_%2802%29.jpg/2000px-Hydrochoerus_hydrochaeris_por_Luiz_Alves_%2802%29.jpg.jpg",
+    "jawaban": "KAPIBARA",
+    "deskripsi": "Bukan burung, tapi hewan apakah ini??, kebangetan kalau ngga tau."
   },
   {
     "index": 8,
@@ -58,5 +58,305 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Woodpecker_pecking_at_a_tree_in_High_Park_Toronto_May_2015_01.jpg/1024px-Woodpecker_pecking_at_a_tree_in_High_Park_Toronto_May_2015_01.jpg",
     "jawaban": "BURUNG PELATUK",
     "deskripsi": "Hobi banget 'nge-drum' di pohon, bunyinya tok-tok-tok kayak lagi nagih utang."
+  },
+  {
+    "index": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/White-breasted_Waterhen_-_Swinhoe%27s_-_Manila.jpg/1024px-White-breasted_Waterhen_-_Swinhoe%27s_-_Manila.jpg",
+    "jawaban": "BURUNG RUAK-RUAK",
+    "deskripsi": "Seringnya kedengeran suaranya pas maghrib, katanya sih pertanda ada 'sesuatu', padahal dia cuma lagi cari makan."
+  },
+  {
+    "index": 11,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kuntul_putih_besar_di_Danau_Sentani.jpg/1024px-Kuntul_putih_besar_di_Danau_Sentani.jpg",
+    "jawaban": "BURUNG KUNTUL",
+    "deskripsi": "Putih bersih kayak pakai deterjen, lehernya panjang, suka nongkrong di sawah nungguin mangsa lewat."
+  },
+  {
+    "index": 12,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Corvus_macrorhynchos_in_Khao_Yai.jpg/1024px-Corvus_macrorhynchos_in_Khao_Yai.jpg",
+    "jawaban": "BURUNG GAGAK",
+    "deskripsi": "Hitam legam, suaranya serak, sering dianggap bawa sial padahal aslinya pinter banget."
+  },
+  {
+    "index": 13,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Streptopelia_chinensis_suratensis_by_Kadavoor.jpg/1024px-Streptopelia_chinensis_suratensis_by_Kadavoor.jpg",
+    "jawaban": "BURUNG TEKUKUR",
+    "deskripsi": "Suaranya 'kuk geruk', khas banget di pedesaan, bikin suasana jadi adem ayem."
+  },
+  {
+    "index": 14,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sooty-headed_Bulbul_%28Pycnonotus_aurigaster%29.jpg/1024px-Sooty-headed_Bulbul_%28Pycnonotus_aurigaster%29.jpg",
+    "jawaban": "BURUNG KUTILANG",
+    "deskripsi": "Punya jambul khas, suaranya nyaring, suka 'berantem' sama sesama jenisnya di pucuk pohon."
+  },
+  {
+    "index": 15,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Java_Sparrow_male.jpg/1024px-Java_Sparrow_male.jpg",
+    "jawaban": "BURUNG GELATIK",
+    "deskripsi": "Pipinya putih kayak pakai bedak, suka bergerombol, makannya biji-bijian."
+  },
+  {
+    "index": 16,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Centropus_sinensis_-_Kadavoor.jpg/1024px-Centropus_sinensis_-_Kadavoor.jpg",
+    "jawaban": "BURUNG BUBUT",
+    "deskripsi": "Matanya merah menyala, suaranya 'but-but-but' dari dalam semak-semak, katanya bisa buat obat."
+  },
+  {
+    "index": 17,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Olive-backed_Sunbird_%28Cinnyris_jugularis%29_male.jpg/1024px-Olive-backed_Sunbird_%28Cinnyris_jugularis%29_male.jpg",
+    "jawaban": "BURUNG MADU SRIGANTI",
+    "deskripsi": "Kecil-kecil cabe rawit, jago nyedot nektar bunga, terbangnya cepet banget kayak drone, nama lain dari burung kolibri?."
+  },
+  {
+    "index": 18,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hirundo_tahitica_-_Kuala_Lumpur%2C_Malaysia.jpg/1024px-Hirundo_tahitica_-_Kuala_Lumpur%2C_Malaysia.jpg",
+    "jawaban": "BURUNG WALET",
+    "deskripsi": "Jago bikin sarang dari air liurnya, harganya mahal, sering jadi 'investasi' di gedung-gedung tinggi."
+  },
+  {
+    "index": 19,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Copsychus_saularis_Kadavoor.jpg/1024px-Copsychus_saularis_Kadavoor.jpg",
+    "jawaban": "BURUNG KACER",
+    "deskripsi": "Warnanya hitam putih elegan, gayanya 'ngobra' kalau lagi emosi, suaranya merdu banget."
+  },
+  {
+    "index": 20,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/White-rumped_Shama_in_India.jpg/1024px-White-rumped_Shama_in_India.jpg",
+    "jawaban": "BURUNG MURAI BATU",
+    "deskripsi": "Ekornya panjang menjuntai, petarung sejati di arena lomba, harganya bisa bikin kantong bolong."
+  },
+  {
+    "index": 21,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Javan_myna_-_Bangkok.jpg/1024px-Javan_myna_-_Bangkok.jpg",
+    "jawaban": "BURUNG JALAK",
+    "deskripsi": "Suka 'numpang' di punggung kerbau, matanya tajam, suaranya berisik tapi bisa niru suara lain."
+  },
+  {
+    "index": 22,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bar-winged_Prinia_%28Prinia_familiaris%29.jpg/1024px-Bar-winged_Prinia_%28Prinia_familiaris%29.jpg",
+    "jawaban": "BURUNG PRENJAK",
+    "deskripsi": "Kecil lincah, suaranya 'cik-cik-cik' atau 'ciat-ciat-ciat', sering muncul di pekarangan rumah."
+  },
+  {
+    "index": 23,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geopelia_striata_-_Maitland%2C_New_South_Wales%2C_Australia.jpg/1024px-Geopelia_striata_-_Maitland%2C_New_South_Wales%2C_Australia.jpg",
+    "jawaban": "BURUNG PERKUTUT",
+    "deskripsi": "Suaranya 'kung', katanya bisa bawa hoki, jadi primadona para bapak-bapak."
+  },
+  {
+    "index": 24,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black-naped_Oriole_%28Oriolus_chinensis%29.jpg/1024px-Black-naped_Oriole_%28Oriolus_chinensis%29.jpg",
+    "jawaban": "BURUNG KEPODANG",
+    "deskripsi": "Kuning cerah kayak emas, suaranya syahdu, jadi lambang beberapa daerah di Jawa."
+  },
+  {
+    "index": 25,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aegithina_tiphia_-_Kattampally.jpg/1024px-Aegithina_tiphia_-_Kattampally.jpg",
+    "jawaban": "BURUNG CIPOH",
+    "deskripsi": "Warnanya hijau kekuningan, suaranya khas 'cipooooow', sering sembunyi di antara daun-daun."
+  },
+  {
+    "index": 26,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lonchura_leucogastroides_-_Pakem%2C_Jogjakarta%2C_Indonesia.jpg/1024px-Lonchura_leucogastroides_-_Pakem%2C_Jogjakarta%2C_Indonesia.jpg",
+    "jawaban": "BURUNG EMPRIT",
+    "deskripsi": "Kecil imut, bergerombol nyerbu padi di sawah, jadi musuh bebuyutan para petani."
+  },
+  {
+    "index": 27,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Long-tailed_Shrike_%28Lanius_schach%29.jpg/1024px-Long-tailed_Shrike_%28Lanius_schach%29.jpg",
+    "jawaban": "BURUNG CENDET",
+    "deskripsi": "Meskipun kecil, dia predator sadis. Suka 'nyate' mangsanya di duri pohon, nama lain dari burung pentet."
+  },
+  {
+    "index": 28,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Orthotomus_sutorius_-_Kolkata_2012.jpg/1024px-Orthotomus_sutorius_-_Kolkata_2012.jpg",
+    "jawaban": "BURUNG CINENEN",
+    "deskripsi": "Arsitek ulung, jago 'menjahit' daun buat bikin sarang. Super kreatif!"
+  },
+  {
+    "index": 29,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Oriental_Magpie-Robin_%28Copsychus_saularis%29_male.jpg/1024px-Oriental_Magpie-Robin_%28Copsychus_saularis%29_male.jpg",
+    "jawaban": "BURUNG KACER",
+    "deskripsi": "Versi 'low budget' dari murai batu, tapi suaranya tetep asik didengerin di pagi hari."
+  },
+  {
+    "index": 30,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zosterops_palpebrosus_in_Kolkata_I_IMG_9356.jpg/1024px-Zosterops_palpebrosus_in_Kolkata_I_IMG_9356.jpg",
+    "jawaban": "BURUNG PLECI",
+    "deskripsi": "Matanya kayak pakai kacamata putih, badannya kecil, suaranya 'ngalas' bikin adem, nama lain dari burung kacamata?."
+  },
+  {
+    "index": 31,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dicrurus_macrocercus_in_Hyderabad%2C_AP_W_IMG_8595.jpg/1024px-Dicrurus_macrocercus_in_Hyderabad%2C_AP_W_IMG_8595.jpg",
+    "jawaban": "BURUNG SRIGUNTING",
+    "deskripsi": "Ekornya bercabang kayak gunting, jago akrobat di udara, dan suka 'nge-bully' burung lain yang lebih besar."
+  },
+  {
+    "index": 32,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cacomantis_merulinus_-_Kaeng_Krachan.jpg/1024px-Cacomantis_merulinus_-_Kaeng_Krachan.jpg",
+    "jawaban": "BURUNG WIWIK",
+    "deskripsi": "Suaranya melankolis, tapi kelakuannya licik. Suka nitip telur di sarang burung lain, alias ibu tiri kejam, nama lain dari burung kedasih?."
+  },
+  {
+    "index": 33,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Changeable_Hawk_Eagle.jpg/1024px-Changeable_Hawk_Eagle.jpg",
+    "jawaban": "BURUNG ELANG JAWA",
+    "deskripsi": "Punya jambul kayak mahkota, gagah perkasa, jadi inspirasi lambang negara kita."
+  },
+  {
+    "index": 34,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alcedo_meninting.jpg/1024px-Alcedo_meninting.jpg",
+    "jawaban": "BURUNG RAJA UDANG",
+    "deskripsi": "Warnanya biru metalik, nyamber ikan di air cepet banget kayak kilat. Raja di pinggir sungai."
+  },
+  {
+    "index": 35,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freckle-breasted_Woodpecker_%28Dendrocopos_analis%29.jpg/1024px-Freckle-breasted_Woodpecker_%28Dendrocopos_analis%29.jpg",
+    "jawaban": "BURUNG PELATUK",
+    "deskripsi": "Dokter pohon, kerjanya 'ngetok-ngetok' batang pohon buat cari serangga. Helmnya alami, anti gegar otak."
+  },
+  {
+    "index": 36,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Blue-tailed_Bee-eater_%28Merops_philippinus%29_W2_IMG_1091.jpg/1024px-Blue-tailed_Bee-eater_%28Merops_philippinus%29_W2_IMG_1091.jpg",
+    "jawaban": "BURUNG KIRIK-KIRIK",
+    "deskripsi": "Warnanya hijau cantik, suka makan lebah dan serangga terbang. Jago 'air show' di langit."
+  },
+  {
+    "index": 37,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Spilopelia_chinensis_in_Chilliwack.jpg/1024px-Spilopelia_chinensis_in_Chilliwack.jpg",
+    "jawaban": "BURUNG DERKUKU",
+    "deskripsi": "Saudaranya tekukur, tapi suaranya lebih melodius. Bikin ngantuk kalau didengerin siang-siang."
+  },
+  {
+    "index": 38,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Prinia_inornata_at_Keoladeo_National_Park_IV.jpg/1024px-Prinia_inornata_at_Keoladeo_National_Park_IV.jpg",
+    "jawaban": "BURUNG CIBLEK",
+    "deskripsi": "Kecil-kecil suaranya 'ngebren' rapat, kayak senapan mesin. Petarung cilik yang pantang menyerah."
+  },
+  {
+    "index": 39,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ploceus_philippinus_by_Soumyadeep_Koley.jpg/1024px-Ploceus_philippinus_by_Soumyadeep_Koley.jpg",
+    "jawaban": "BURUNG MANYAR",
+    "deskripsi": "Insinyur sarang, jago banget 'menganyam' sarang yang unik dan rumit dari rerumputan."
+  },
+  {
+    "index": 40,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Collocalia_esculenta_-_Swinhoe%27s_-_Manila.jpg/1024px-Collocalia_esculenta_-_Swinhoe%27s_-_Manila.jpg",
+    "jawaban": "BURUNG SERITI",
+    "deskripsi": "Mirip walet tapi beda kasta, sarangnya dari rumput, bukan dari air liur. Versi ekonomisnya walet."
+  },
+  {
+    "index": 41,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Scarlet-headed_Flowerpecker_%28Dicaeum_trochileum%29.jpg/1024px-Scarlet-headed_Flowerpecker_%28Dicaeum_trochileum%29.jpg",
+    "jawaban": "BURUNG CABAI",
+    "deskripsi": "Kecil banget, warnanya merah menyala kayak cabai. Suka hinggap di pucuk-pucuk ranting."
+  },
+  {
+    "index": 42,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Saxicola_caprata_at_Behror.jpg/1024px-Saxicola_caprata_at_Behror.jpg",
+    "jawaban": "BURUNG DECU",
+    "deskripsi": "Warnanya kontras hitam dan putih, suka nangkring di tempat terbuka sambil goyang-goyangin ekor."
+  },
+  {
+    "index": 43,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greater_Coucal_%28Centropus_sinensis%29_on_a_branch.jpg/1024px-Greater_Coucal_%28Centropus_sinensis%29_on_a_branch.jpg",
+    "jawaban": "BURUNG BUTBUT",
+    "deskripsi": "Sama dengan Burung Bubut, tapi ini nama lain yang sering disebut orang. Matanya tetap merah sangar."
+  },
+  {
+    "index": 44,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Turdus_poliocephalus_-_Sumba_Island%2C_Indonesia_-_male.jpg/1024px-Turdus_poliocephalus_-_Sumba_Island%2C_Indonesia_-_male.jpg",
+    "jawaban": "BURUNG ANIS",
+    "deskripsi": "Gayanya 'teler' kalau lagi berkicau, badannya naik turun kayak orang lagi nge-rock. Ada yang merah, ada yang kembang."
+  },
+  {
+    "index": 45,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Iora_%28Aegithina_tiphia%29_male.jpg/1024px-Common_Iora_%28Aegithina_tiphia%29_male.jpg",
+    "jawaban": "BURUNG SIRTU",
+    "deskripsi": "Nama lain dari Cipoh. Suaranya tetap sama, 'cipoooow' dari kejauhan."
+  },
+  {
+    "index": 46,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Leptocoma_sperata_-_La_Mesa_Ecopark%2C_Quezon_City%2C_Philippines.jpg/1024px-Leptocoma_sperata_-_La_Mesa_Ecopark%2C_Quezon_City%2C_Philippines.jpg",
+    "jawaban": "BURUNG SOGOK ONTONG",
+    "deskripsi": "Paruhnya panjang melengkung kayak alat buat 'nyogok' jantung pisang (ontong). Saudaranya kolibri."
+  },
+  {
+    "index": 47,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cissa_thalassina_thalassina_1839.jpg/1024px-Cissa_thalassina_thalassina_1839.jpg",
+    "jawaban": "BURUNG EKOR CEKAK",
+    "deskripsi": "Warnanya hijau ngejreng, ekornya pendek, endemik Jawa yang mulai langka karena cakepnya."
+  },
+  {
+    "index": 48,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Megalaima_haemacephala_indica.jpg/1024px-Megalaima_haemacephala_indica.jpg",
+    "jawaban": "BURUNG TAKUR",
+    "deskripsi": "Suaranya 'tok-tok-tok' monoton kayak tukang kayu, makanya kadang disebut Bultok (Burung Tukang)."
+  },
+  {
+    "index": 49,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brown-throated_Sunbird_%28Anthreptes_malacensis%29_male_1.jpg/1024px-Brown-throated_Sunbird_%28Anthreptes_malacensis%29_male_1.jpg",
+    "jawaban": "BURUNG MADU KELAPA",
+    "deskripsi": "Jenis burung-madu yang paling sering kelihatan di pemukiman, suka banget sama nektar bunga kelapa."
+  },
+  {
+    "index": 50,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Collared_Kingfisher_-_Manila.jpg/1024px-Collared_Kingfisher_-_Manila.jpg",
+    "jawaban": "BURUNG CEKAKAK",
+    "deskripsi": "Saudaranya Raja Udang, suaranya kayak orang lagi 'terbahak-bahak'. Bikin kaget kalau lagi di tempat sepi."
+  },
+  {
+    "index": 51,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haliastur_indus_in_Chilika%2C_Odisha%2C_India.jpg/1024px-Haliastur_indus_in_Chilika%2C_Odisha%2C_India.jpg",
+    "jawaban": "BURUNG ELANG BONDOL",
+    "deskripsi": "Kepalanya putih, badannya coklat, sering jadi 'logo' banyak perusahaan dan jadi maskot DKI Jakarta."
+  },
+  {
+    "index": 52,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tyto_alba_close_up.jpg/1024px-Tyto_alba_close_up.jpg",
+    "jawaban": "BURUNG SERAK JAWA",
+    "deskripsi": "Mukanya kayak pakai topeng bentuk hati, suaranya 'serak-serak' serem, jago basmi tikus di sawah, ini burung hantu tapi namanya burung apa?."
+  },
+  {
+    "index": 53,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scaly-breasted_Munia_-_Manila_2.jpg/1024px-Scaly-breasted_Munia_-_Manila_2.jpg",
+    "jawaban": "BURUNG PIPIT BONDOL",
+    "deskripsi": "Dadanya bersisik kayak ikan, suka makan biji rumput liar, temennya emprit di sawah."
+  },
+  {
+    "index": 54,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Javan_Plover_Charadrius_javanicus_-_Breeding_Plumage.jpg/1024px-Javan_Plover_Charadrius_javanicus_-_Breeding_Plumage.jpg",
+    "jawaban": "BURUNG TRULEK",
+    "deskripsi": "Suka lari-lari di pinggir pantai, kakinya jenjang, suaranya 'trulek-trulek' khas banget."
+  },
+  {
+    "index": 55,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rock_Dove_at_Gundicha_Temple_Puri.jpg/1024px-Rock_Dove_at_Gundicha_Temple_Puri.jpg",
+    "jawaban": "BURUNG MERPATI",
+    "deskripsi": "Simbol kesetiaan, jago pulang ke kandang, sering jadi 'kurir' surat zaman dulu."
+  },
+  {
+    "index": 56,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amaurornis_phoenicurus_in_Lake_View_Park%2C_Islamabad.jpg/1024px-Amaurornis_phoenicurus_in_Lake_View_Park%2C_Islamabad.jpg",
+    "jawaban": "BURUNG KAREO",
+    "deskripsi": "Mirip Ruak-ruak, dadanya putih, suka ngumpet di rawa-rawa dan sawah yang becek."
+  },
+  {
+    "index": 57,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Black_Drongo_at_a_village_in_West_Bengal%2C_India.jpg/1024px-Black_Drongo_at_a_village_in_West_Bengal%2C_India.jpg",
+    "jawaban": "BURUNG SAWEH",
+    "deskripsi": "Nama lain dari Srigunting, warnanya hitam mengkilap, gayanya sangar tapi aslinya pemberani."
+  },
+  {
+    "index": 58,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Green_Imperial_Pigeon_at_Sattal.jpg/1024px-Green_Imperial_Pigeon_at_Sattal.jpg",
+    "jawaban": "BURUNG PERGAM",
+    "deskripsi": "Merpati raksasa versi hutan, warnanya hijau metalik, makannya buah-buahan besar."
+  },
+  {
+    "index": 59,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lichmera_indistincta_-_Wyndham.jpg/1024px-Lichmera_indistincta_-_Wyndham.jpg",
+    "jawaban": "BURUNG ISAP MADU",
+    "deskripsi": "Nama umum buat semua burung pemakan nektar. Pokoknya kalau lihat burung kecil lincah di bunga, panggil aja dia."
   }
 ]
